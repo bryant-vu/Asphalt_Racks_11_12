@@ -2,7 +2,7 @@
 SAM Reporting
 Asphalt_Loading_Racks_11_12.exe is intended for use during LTR”s SAM reporting.
 
-The following provides background information:
+#The following provides background information:
 
 1) LTR’s Scale Reports program records data on asphalt product loaded via Racks 11 and 12.
 
